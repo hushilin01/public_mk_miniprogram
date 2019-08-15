@@ -1,0 +1,32 @@
+/* 全局样式，改动需要谨慎 */
+
+.page {
+  width: 750rpx;
+  overflow-x: hidden;
+  background-color: #ccc;
+  -webkit-overflow-scrolling: touch;
+  position: relative;
+  height: 100vh;
+}
+
+.component {
+  background-color: #fff;
+}
+
+image {
+  background-color: black;
+}
+
+.title33 {
+  color: #333;
+}
+
+.titlecc {
+  color: #ccc;
+}
+
+/* 
+.root {
+  --qcMainColor: '#fccc';
+  --ghBackgroundColor: "#f8f8f8";
+}*/

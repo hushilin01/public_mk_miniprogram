@@ -1,0 +1,60 @@
+.modal_box {
+  width: 600rpx;
+  overflow: hidden;
+  position: fixed;
+  top: 30%;
+  left: 50%;
+  z-index: 1001;
+  background: #fff;
+  transform: translateX(-50%) translateY(-50%);
+  border-radius: 3rpx;
+}
+
+.title {
+  padding: 15rpx;
+  margin-top: 20rpx;
+  text-align: center;
+  background-color: gazure;
+  color: #000;
+  font-weight: bold;
+}
+
+.cover {
+  position: fixed;
+  left: 0;
+  top: 0;
+  z-index: 999;
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+.progress {
+  width: 550rpx;
+  margin-left: 25rpx;
+}
+
+.operationbtn {
+  width: 550rpx;
+  margin-left: 25rpx;
+  text-align: center;
+  margin-top: 30rpx;
+  border-radius: 10rpx;
+  border: 1rpx solid #ccc;
+  font-size: 30rpx;
+  line-height: 60rpx;
+  height: 60rpx;
+  margin-bottom: 20rpx;
+}
+
+.progress_info {
+  width: 550rpx;
+  margin-left: 25rpx;
+  text-align: center;
+  margin-top: 30rpx;
+  border-radius: 10rpx;
+  font-size: 30rpx;
+  line-height: 60rpx;
+  height: 60rpx;
+  margin-bottom: 20rpx;
+}

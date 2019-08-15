@@ -1,0 +1,15 @@
+<view class='page'>
+  <Qcinput bind:qcinput="input" bind:qcconfirm='confirm' initplaceholder='搜索'>
+  </Qcinput>
+  <view>
+    <view class='index_container'>
+      <view wx:for="{{v_data}}" wx:for-item='item' wx:key='item.id' data-item='{{item}}' bindtap="todetail" class='index_single'>
+        <image mode='aspectFill' class='image'></image>
+        <view class='intrioduction_container'>
+          <view class='title title33'>{{item.title}}</view>
+          <view class='titlecc time'>{{item.time}}</view>
+        </view>
+      </view>
+    </view>
+  </view>
+</view>

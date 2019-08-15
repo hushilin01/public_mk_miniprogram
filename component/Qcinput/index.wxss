@@ -1,0 +1,34 @@
+.component {
+  height: 80rpx;
+  background-color: #fff;
+  width: 750px;
+  padding-top: 5rpx;
+}
+
+.inputbox {
+  box-sizing: border-box;
+  margin-left: 25rpx;
+  border: 1px solid #ccc;
+  width: 700rpx;
+  border-radius: 750rpx;
+  height: 70rpx;
+}
+
+.image {
+  vertical-align: middle;
+  display: inline-block;
+  margin-top: 5rpx;
+  margin-left: 30rpx;
+  width: 40rpx;
+  height: 40rpx;
+}
+
+.input {
+  vertical-align: middle;
+  width: 500rpx;
+  margin-left: 10px;
+  display: inline-block;
+  height: 60rpx;
+  margin-top: 5rpx;
+  font-size: 24rpx;
+}

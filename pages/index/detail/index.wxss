@@ -1,0 +1,31 @@
+.page {
+  background-color: #fff;
+}
+
+.header {
+  width: 710rpx;
+  margin-left: 20rpx;
+  margin-right: 20rpx;
+  margin-top: 20rpx;
+}
+
+.header .title {
+  font-weight: bold;
+  font-size: 36rpx;
+  line-height: 60rpx;
+}
+
+.header .description {
+  font-size: 30rpx;
+  line-height: 40rpx;
+}
+
+img, image {
+  width: 100%;
+}
+
+.richtext {
+  width: 710rpx;
+  display: block;
+  margin-left: 20rpx;
+}

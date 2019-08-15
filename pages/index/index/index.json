@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "Qcinput": "/component/Qcinput/index"
+  },
+  "enablePullDownRefresh": true
+}
