@@ -1,0 +1,2 @@
+<hg-video-down initpath='{{videPath}}' initshow='{{show}}'></hg-video-down>
+<button bindtap="downVideo">下载链接</button>

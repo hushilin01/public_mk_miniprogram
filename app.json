@@ -1,13 +1,8 @@
 {
   "pages": [
     "pages/index/index/index",
-    "pages/index/detail/index",
-    "pages/data/index/index",
-    "pages/video/index/index",
-    "pages/circle/index/index",
     "pages/mine/index/index",
-    "component/Qcinput/index",
-    "pages/video/detail/index"
+    "pages/index/video-down/index"
   ],
   "tabBar": {
     "color": "#7A7E83",
@@ -20,24 +15,6 @@
         "iconPath": "assets/tab/11.png",
         "selectedIconPath": "assets/tab/12.png",
         "text": "首页"
-      },
-      {
-        "pagePath": "pages/data/index/index",
-        "iconPath": "assets/tab/21.png",
-        "selectedIconPath": "assets/tab/22.png",
-        "text": "资料库"
-      },
-      {
-        "pagePath": "pages/video/index/index",
-        "iconPath": "assets/tab/31.png",
-        "selectedIconPath": "assets/tab/32.png",
-        "text": "视频库"
-      },
-      {
-        "pagePath": "pages/circle/index/index",
-        "iconPath": "assets/tab/41.png",
-        "selectedIconPath": "assets/tab/42.png",
-        "text": "发圈"
       },
       {
         "pagePath": "pages/mine/index/index",

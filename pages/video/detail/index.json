@@ -1,7 +1,0 @@
-{
-  "usingComponents": {
-    "Qcmodal": "/component/Qcmodal/index",
-    "Qcdownvideo": "/component/Qcdownvideo/index",
-    "QcdownImage": "/component/QcdownImage/index"
-  }
-}

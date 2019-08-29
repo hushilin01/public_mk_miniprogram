@@ -1,6 +1,0 @@
-<video src='{{videosrc}}'>
-</video>
-<button bindtap='savevideo'>save</button>
-<!-- <Qcmodal></Qcmodal> -->
-<!-- <Qcdownvideo initshow='{{show}}' initpath='{{srcpath}}' initshowprogress='{{showprogress}}'></Qcdownvideo> -->
-<QcdownImage initshow='{{show}}' initpath='{{srcpath}}' initshowprogress='{{showprogress}}'></QcdownImage>

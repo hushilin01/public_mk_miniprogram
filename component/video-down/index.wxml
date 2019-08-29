@@ -1,0 +1,9 @@
+<view class="cover" wx:if='{{initshow&&initpath}}' catchtouchmove='true'>
+  <view class='modal_box'>
+    <view class="title">下载进度</view>
+    <progress wx:if='{{showProgress}}' class="progress" percent='{{progress}}' border-radius='10' stroke-width="12" activeColor="blue"></progress>
+    <view wx:if='{{showProgress}}' class="progress_info">{{progress}}%</view>
+    <view wx:if='{{!showProgress}}' class="progress_info">正在下载，请稍等</view>
+    <view class="operationbtn" bindtap="cancelevent">取消</view>
+  </view>
+</view>

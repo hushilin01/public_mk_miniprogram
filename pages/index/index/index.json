@@ -1,6 +1,5 @@
 {
   "usingComponents": {
-    "Qcinput": "/component/Qcinput/index"
-  },
-  "enablePullDownRefresh": true
+    "hg-input": "/component/hginput/index"
+  }
 }

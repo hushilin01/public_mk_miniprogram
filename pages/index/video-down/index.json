@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "hg-video-down": "/component/video-down/index"
+  }
+}
