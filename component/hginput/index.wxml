@@ -1,6 +1,0 @@
-<view class='component'>
-  <view class='inputbox'>
-    <image class='image'> </image>
-    <input class='input' bindinput='qcinput' bindconfirm='qcconfirm' type='text' placeholder='{{initplaceholder}}' type='{{inittype}}' value='{{initvalue}}' confirm-type='搜索' />
-  </view>
-</view>

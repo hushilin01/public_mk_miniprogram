@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "hg-wook-mark": "/component/wook-mark/index"
+  }
+}

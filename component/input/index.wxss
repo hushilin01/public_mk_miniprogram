@@ -1,8 +1,8 @@
 .component {
-  height: 80rpx;
   background-color: #fff;
-  width: 750px;
-  padding-top: 5rpx;
+  width: 750rpx;
+  padding-top: 20rpx;
+  padding-bottom: 20rpx;
 }
 
 .inputbox {
@@ -10,17 +10,18 @@
   margin-left: 25rpx;
   border: 1px solid #ccc;
   width: 700rpx;
-  border-radius: 750rpx;
+  border-radius: 16rpx;
   height: 70rpx;
+  background: rgba(248, 248, 248, 1);
 }
 
 .image {
   vertical-align: middle;
   display: inline-block;
-  margin-top: 5rpx;
-  margin-left: 30rpx;
-  width: 40rpx;
-  height: 40rpx;
+  margin-top: 0rpx;
+  margin-left: 20rpx;
+  width: 50rpx;
+  height: 50rpx;
 }
 
 .input {
@@ -31,4 +32,13 @@
   height: 60rpx;
   margin-top: 5rpx;
   font-size: 24rpx;
+}
+
+.icon {
+  position: absolute;
+  display: block;
+  top: 34rpx;
+  right: 40rpx;
+  opacity: 0.8;
+  cursor: pointer;
 }

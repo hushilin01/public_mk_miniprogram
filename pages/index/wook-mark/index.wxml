@@ -1,0 +1,10 @@
+<!-- <hg-wook-mark initpath='{{videPath}}' initshow='{{show}}'></hg-wook-mark> -->
+<view class="">
+  <view>
+    <image ></image>
+  </view>
+  <view>
+    <image></image>
+  </view>
+</view>
+<button bindtap="radomData">模拟数组</button>

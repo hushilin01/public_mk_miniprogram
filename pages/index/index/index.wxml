@@ -1,6 +1,9 @@
 <view class='page'>
   <view class="container">
-    <navigator url="/pages/index/video-down/index">视频下载</navigator>
+    <navigator url="/pages/index/file-down/index">文件下载</navigator>
+    <navigator url="/pages/index/wook-mark/index">瀑布流布局</navigator>
+    <navigator url="/pages/index/input/index">输入框</navigator>
+
   </view>
 
 </view>

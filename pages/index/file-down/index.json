@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "hg-file-down": "/component/file-down/index"
+  }
+}

@@ -2,7 +2,10 @@
   "pages": [
     "pages/index/index/index",
     "pages/mine/index/index",
-    "pages/index/video-down/index"
+    "pages/index/file-down/index",
+    "pages/index/wook-mark/index",
+    "component/wook-mark/index",
+    "pages/index/input/index"
   ],
   "tabBar": {
     "color": "#7A7E83",

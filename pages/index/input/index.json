@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "hg-input": "/component/input/index"
+  }
+}

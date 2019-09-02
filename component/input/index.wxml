@@ -1,0 +1,7 @@
+<view class='component'>
+  <view class='inputbox'>
+    <image class='image' src="../../assets/common/ic_search.png"> </image>
+    <input class='input' bindinput='hginput' bindconfirm='hgconfirm' type='text' placeholder='{{placeholder}}' type='{{type}}' value='{{value}}' confirm-type='搜索' />
+    <icon wx:if='{{value}}' bindtap="clearValue" class="icon" type='clear' size="16"></icon>
+  </view>
+</view>
